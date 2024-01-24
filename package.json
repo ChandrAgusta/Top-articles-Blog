@@ -2,7 +2,7 @@
   "name": "coffe-shop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ChandrAgusta.github.io/Top-articles-Blog",
+  "homepage": "https://ChandrAgusta.github.io/Top-articles-Blog",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
