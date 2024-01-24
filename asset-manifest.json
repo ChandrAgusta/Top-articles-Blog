@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Top-articles-Blog/static/css/main.d00ec324.css",
+    "main.js": "/Top-articles-Blog/static/js/main.672c4058.js",
+    "index.html": "/Top-articles-Blog/index.html",
+    "main.d00ec324.css.map": "/Top-articles-Blog/static/css/main.d00ec324.css.map",
+    "main.672c4058.js.map": "/Top-articles-Blog/static/js/main.672c4058.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d00ec324.css",
+    "static/js/main.672c4058.js"
+  ]
+}
